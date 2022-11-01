@@ -1,4 +1,4 @@
-# Week1 Day1 - ReactJS 18
+# Week1 Day1 - ReactJS v18
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
